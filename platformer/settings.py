@@ -25,7 +25,7 @@ FPS = 60
 
 LEVELS = [["11111111111111111111111111111111111111111111111", 
           "1                                             1",
-          "1                                             1",
+          "1d                                            1",
           "1gggggggggggggg                               1",
           "1               b   e   b                     1",
           "1                ggggggg                      1",
@@ -42,7 +42,7 @@ LEVELS = [["11111111111111111111111111111111111111111111111",
           "1                                             1",
           "1             ggggg                           1",
           "1                                             1",
-          "            d                                 e",
+          "                                              e",
           "ggggggggggggggggggggggggggggggggggggggggggggggg"
           
 ], 
